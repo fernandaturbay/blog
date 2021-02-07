@@ -1,0 +1,165 @@
+body{
+    background-color: #4d4c4c;
+    margin-left: 30px;
+}
+.titulo-principal{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 23px; 
+    font-style: normal; 
+    font-variant: small-caps; 
+    font-weight: 700; 
+    line-height: 37.5px;
+    color: #f8d33c;
+    border-left: solid;
+    border-color:#f8d33c;
+    border-width: 3px;
+    padding-left: 15px;
+}
+.conjunto{
+    width: 800px;
+    margin-left: 23%;
+    height: auto;
+    margin-top: 5%;
+}
+.conjunto img, .conjunto .paragrafo{
+    width: 400px;
+    height: 400px;
+    float: left;
+    height: auto;
+}
+.clear{
+    clear:both;
+}
+.titulos{
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    color: #1a1a1a;
+    font-size: 80px;
+    padding-right: 25px;
+    margin: 20px;
+    border-bottom: solid;
+    border-color: #1a1a1a;
+    border-width: thin;
+}
+.tabela{
+    width: 800px;
+    height: 400%;
+    background-color: #d9d8d8;
+}
+.subtitulos{
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    color: #1a1a1a;
+    font-size: 13px;
+    padding-right: 25px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+p{
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    color: #d9d9d9;
+    font-size: 25px;
+    padding-left: 10%;
+}
+#imagemfernanda{
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 48%;
+    box-shadow: 0 17px 15px rgba(0,0,0, .5);
+}
+#imagemhtml{
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius:50%;
+    box-shadow: 0 17px 15px rgba(0,0,0, .5);
+}
+#imagemcss{
+    width: 250px;
+    height: 250px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 50%;
+    box-shadow: 0 17px 15px rgba(0,0,0, .5);
+}
+ul {
+    list-style-type: none;
+}
+a{
+    color: lemonchiffon;
+}
+#analise-fofa{
+    text-align: center;
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+    color: #1a1a1a;
+    font-size: 35px;
+}
+.titulo-fofa{
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    color: #1a1a1a;
+    font-size: 25px;
+    padding-right: 25px;
+    margin: 20px;
+}
+
+.lista-fofa{
+    text-align: right;
+    font-family: "CodeNewRomanRegular";
+    font-weight: normal;
+    font-style: normal;
+    color: #1a1a1a;
+    font-size: 13px;
+    padding-right: 25px;
+    margin: 20px;
+
+}
+
+.forças{
+    background-color: lightsalmon;
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+.fraquezas{
+    background-color: lightskyblue;
+    width: 50%;
+    height: 150px;
+    float: right;
+}
+.oportunidades{
+    background-color: lightgreen;
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+.ameaças{
+    background-color: plum;
+    width: 50%;
+    height: 150px;
+    float: right;
+}
+
+footer{
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px; 
+    font-style: normal; 
+    font-variant: small-caps; 
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    padding-top: 25%;
+}
+    
